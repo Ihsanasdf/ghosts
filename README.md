@@ -1,0 +1,2 @@
+# ghosts
+constitution file (tea)
